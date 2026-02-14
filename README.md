@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://peaportfolio.vercel.app/](https://peaportfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://write.as/brialeano/](https://write.as/brialeano/)
-
 - 💬 Ask me about **Back - End Developer and UI/UX! I love writing and drawing too**
 
 - 📫 How to reach me **irenemirajnursari@gmail.com**
